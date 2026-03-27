@@ -55,7 +55,7 @@ If you use this work, please cite:
 ```bibtex
 @article{raso2026,
   title   = {A thermomechanical model of on-board multi-state hydrogen fuel systems in aviation},
-  author  = {Nils Wieja, Jan Condé-Wolter, Lukas Hauser, Christoph Ebert, Bianca Giovanardi, Maik Gude, Julien van Campen},
+  author  = {Dante Raso, Nils Wieja, Jan Condé-Wolter, Lukas Hauser, Christoph Ebert, Bianca Giovanardi, Maik Gude, Julien van Campen},
   journal = {Proceedings of the 2nd Vienna Aviation Days},
 Publisher = {Springer Nature}
   year    = {2026}
